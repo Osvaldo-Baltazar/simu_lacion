@@ -1,0 +1,8 @@
+C:\Users\hp\Documents\Simulacion\ClientesFlori_Encue\ClientesFlori_Encue\bin\Debug\ClientesFlori_Encue.exe.config
+C:\Users\hp\Documents\Simulacion\ClientesFlori_Encue\ClientesFlori_Encue\bin\Debug\ClientesFlori_Encue.exe
+C:\Users\hp\Documents\Simulacion\ClientesFlori_Encue\ClientesFlori_Encue\bin\Debug\ClientesFlori_Encue.pdb
+C:\Users\hp\Documents\Simulacion\ClientesFlori_Encue\ClientesFlori_Encue\obj\Debug\ClientesFlori_Encue.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\Simulacion\ClientesFlori_Encue\ClientesFlori_Encue\obj\Debug\ClientesFlori_Encue.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\Simulacion\ClientesFlori_Encue\ClientesFlori_Encue\obj\Debug\ClientesFlori_Encue.exe
+C:\Users\hp\Documents\Simulacion\ClientesFlori_Encue\ClientesFlori_Encue\obj\Debug\ClientesFlori_Encue.pdb
+C:\Users\hp\Documents\Simulacion\ClientesFlori_Encue\ClientesFlori_Encue\obj\Debug\ClientesFlori_Encue.csproj.SuggestedBindingRedirects.cache
